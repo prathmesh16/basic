@@ -12,7 +12,7 @@ class str
 	{
 		cout<<"enter string 1:";
 		cin>>str1;
-		cout<<"\nenter string 4:";
+		cout<<"\nenter string 2:";
 		cin>>str2;
 
 	}
